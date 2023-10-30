@@ -1,0 +1,3 @@
+[submodule "FIAU"]
+	path = FIAU
+	url = https://github.com/tkddnr924/frida-interception-and-unpinning.git

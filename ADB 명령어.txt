@@ -1,0 +1,12 @@
+# ADB 연결된 기기 정보 가져오기
+adb devices
+
+# ADB Shell 접속
+adb shell
+
+# 안드로이드 파일 넣기
+adb push "파일" "안드로이드 경로
+: adb push hluda-server64 /data/local/tmp
+
+# Package Name 가져오기
+pm list packages

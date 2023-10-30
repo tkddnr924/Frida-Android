@@ -5,7 +5,7 @@ call .\venv\Scripts\activate.bat
 
 
 :: Frida
-set FIAU=frida-interception-and-unpinning
+set FIAU=FIAU
 set PACKAGE=com.sec.android.app.sbrowser
 
 frida -U ^
